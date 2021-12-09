@@ -24,7 +24,6 @@ function buildTable(data) {
       );
     });
   }
-}
 
 // create a button to filter data
 function handleClick() {
