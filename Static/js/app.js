@@ -78,4 +78,3 @@ function updateFilters() {
   buildTable(tableData);
 
 
-// d3.selectAll("#filter-btn").on("click", filterTable);
